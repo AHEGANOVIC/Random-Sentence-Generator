@@ -1,4 +1,7 @@
 # Random-Sentence-Generator
+
+IMPORTANT: For when you choose to send email, it must be from an outlook account. But, you can send your generated sentences to other email services like Gmail or Yahoo.
+
 Generates random sentences based on nouns, adjectives, and verbs. 
 
 The Random Sentence Generator is used to make sentences with randomly choosen nouns, adjectives, and verbs. It can generate many sentences you desire and send it to the email that you want to. 
